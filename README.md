@@ -15,7 +15,6 @@
 *   **Language:** Java
 *   **Compatibility:** Android TV (API 21+)
 *   **UI Design:** 100% programmatic (no XML for main views)
-*   **Build System:** Gradle
 
 ## 📦 Installation
 
@@ -25,9 +24,11 @@ You can download the APK directly from the [Releases](link-to-your-releases) sec
 2. Install it (you will need to allow installation from unknown sources).
 3. Press the "Home" button on your remote and select Vektor as your default launcher.
 
-## 📄 License
+## ⚠️ License & Source Code
 
-This project is under the MIT License. You are free to use it, modify it, and learn from it.
+**This is a closed-source project.** The source code is not publicly available. 
+
+You are allowed to download and use the provided APK for personal use. Redistribution, modification, or reverse engineering of the application is strictly prohibited without explicit permission from the author.
 
 ---
 *Developed by [wruzt](https://github.com/wruzt)*
